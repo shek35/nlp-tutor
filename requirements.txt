@@ -1,0 +1,8 @@
+transformers
+bitsandbytes
+peft
+accelerate
+trl
+datasets
+sentencepiece
+streamlit
